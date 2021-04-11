@@ -167,7 +167,32 @@ h1{
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	color: black;
+	font-size: 30px;
+	line-height: 0px;
 }
+
+.github p:nth-child(2){
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: black;
+	font-size: 20px;
+	line-height: 20px;
+}
+.project p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: black;
+	font-size: 15px;
+	line-height: 10px;
+}
+.project ul li a {
+	color: blue;
+}
+.project ul li {
+	list-style-type: square;
+}
+
+
 
 .box-container {
   
