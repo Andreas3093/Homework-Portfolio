@@ -16,4 +16,4 @@ Link to[DayPlanner](https://andreas3093.github.io/Day-Planner/)
 
 # Deployed
 
-Link to my [Portfolio](https://andreas3093.github.io/Homework-Portfolio/)
+Link to my [Portfolio](https://andreas3093.github.io/Portfolio/)
