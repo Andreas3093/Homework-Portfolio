@@ -136,8 +136,8 @@ h1{
 }
 
 .Work {
-  height: 600px;
-  background-color: #ffffff;
+  height: 450px;
+  background-color: gray;
   padding: 2% 10% 0px 10%;
 }
 
@@ -152,9 +152,21 @@ h1{
 .text p:nth-child(2){
   font-family:Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	color:#3e3d3d;
+	color: black;
 	font-size: 15px;
 	line-height: 5px;
+}
+
+.git {
+	height: 350px;
+	background-color: white;
+	padding: 2% 10% 0px 10%;
+}
+
+.github p:nth-child(1){
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: black;
 }
 
 .box-container {
@@ -173,7 +185,7 @@ h1{
   justify-content: center;
   display: flex;
   flex-direction: column;
-  margin: 0px 4px;
+  margin: 20px 4px;
 }
 
 .box-1{
