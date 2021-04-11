@@ -284,9 +284,12 @@ h1{
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
-  color: white;
+  color: red;
   display: inline;
+ }
 
+ .contactme ul li a{
+	 color: red;
  }
  .box-1:hover,.box-2:hover,.box-3:hover,.box-4:hover,.box-5:hover{
   width: 300px;
