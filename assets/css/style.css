@@ -121,7 +121,7 @@ h2{
 	font-weight:bold;
 	line-height:17px;
 }
-.AboutMe p:nth-child(3),{
+.AboutMe p:nth-child(3){
 	color:#7e7d7d;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:16px;
@@ -379,7 +379,7 @@ h1{
 		font-size: 18px;
 	}
 
-}
+
 
 
 
